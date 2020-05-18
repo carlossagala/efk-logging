@@ -1,0 +1,6 @@
+/Users/csagala/Git/EJEMPLOS/jumbled-part/obj/Debug/netcoreapp2.2/jumbled-part.csprojAssemblyReference.cache
+/Users/csagala/Git/EJEMPLOS/jumbled-part/obj/Debug/netcoreapp2.2/jumbled-part.csproj.CoreCompileInputs.cache
+/Users/csagala/Git/EJEMPLOS/jumbled-part/obj/Debug/netcoreapp2.2/jumbled-part.RazorAssemblyInfo.cache
+/Users/csagala/Git/EJEMPLOS/jumbled-part/obj/Debug/netcoreapp2.2/jumbled-part.RazorAssemblyInfo.cs
+/Users/csagala/Git/EJEMPLOS/jumbled-part/obj/Debug/netcoreapp2.2/jumbled-part.AssemblyInfoInputs.cache
+/Users/csagala/Git/EJEMPLOS/jumbled-part/obj/Debug/netcoreapp2.2/jumbled-part.AssemblyInfo.cs
