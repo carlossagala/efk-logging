@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{D8E4C891-A124-4ED3-A58C-B560157BE7B2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
+    <Files>
+      <File FileName="Startup.cs" Line="35" Column="1" />
+      <File FileName="Controller/FruitController.cs" Line="21" Column="1" />
+      <File FileName="service/FruitService.cs" Line="22" Column="40" />
+      <File FileName="service/IFruitService.cs" Line="10" Column="38" />
+      <File FileName="Model/Fruit.cs" Line="21" Column="1" />
+      <File FileName="Program.cs" Line="29" Column="49" />
+      <File FileName="appsettings.json" Line="5" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="fruit" expanded="True">
+            <Node name="fruit" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controller" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="service" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.fruit PreferredExecutionTarget="/Applications/Firefox Developer Edition.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
